@@ -1,0 +1,7 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+@import "../src/app/app.component.scss";
+body {
+  background-color: #414550 !important;
+  color: #fff !important;
+}

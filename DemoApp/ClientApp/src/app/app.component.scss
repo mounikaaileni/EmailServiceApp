@@ -1,0 +1,20 @@
+/* You can add global styles to this file, and also import other style files */
+
+app-root {
+  display: block;
+  height: 100vh;
+  color: #fff;
+  font-family: sans-serif;
+}
+
+.cleco-btn {
+  min-width: 150px;
+  border-radius: 0;
+  background-color: #666;
+  color: #fff;
+  border: 1px solid #fff;
+
+  &:hover, &:focus {
+    background-color: #e05206;
+  }
+}
